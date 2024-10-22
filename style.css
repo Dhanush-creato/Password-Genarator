@@ -77,3 +77,19 @@ width: 10%;
     bottom: 60px; 
     visibility:hidden; 
 }
+@media (max-width:363px)
+{
+    button{
+        font-size: 10px;
+    }
+    img{
+        height: 20px;
+    }
+    h1{
+        font-weight: 30px;
+    }
+    .cop{
+        position: relative;
+        left: 450px;
+    }
+}
