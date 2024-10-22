@@ -77,7 +77,7 @@ width: 10%;
     bottom: 60px; 
     visibility:hidden; 
 }
-@media (max-width:450px)
+@media (max-width:500px)
 {
     button{
         font-size: 10px;
